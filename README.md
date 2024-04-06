@@ -19,7 +19,8 @@
 #### Main Stack:
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-E44C30?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![Maven](https://img.shields.io/bad&logoColor=white)&nbsp;
+![Maven](https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)&nbsp;
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Secondary Stack:
