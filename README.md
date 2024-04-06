@@ -58,7 +58,7 @@
 </a>
 </a>
 <a href="mailto:joaovitlvapimentel0@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoCor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/joão-vitor-pimentel-159446240/?originalSubdomain=br" target="_blank"><img src="https://img.slds.io/badge/-LinkedIn-%230077B5?style-the-badge&logo=linkin&logowhite"  tart="_blank"></a> 
+<a href="https://www.linkedin.com/in/joão-vitor-pimentel-159446240/?originalSubdomain=br" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  tart="_blank"></a> 
 </div>&nbsp;&nbsp;
  
 
