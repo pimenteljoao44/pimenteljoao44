@@ -5,7 +5,7 @@
 <p align="center">Passionate about solving big challenges using technology. <br><br> I am an intermediate-level full stack developer focused on web development. I'm dedicated to diving head first into practical challenges and gaining valuable knowledge while working on real projects. I have a palways looking for ways to expand my skill set</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=50% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=pimenteljoao44&theme=radical&mode=weekly" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=pimenteljoao44&theme=radical&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-seven-indol-93.vercel.app/api/top-langs/?username=pimenteljoao44&show_icons=true&theme=radical&layout=compact" />
  </div>
  
