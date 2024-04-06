@@ -30,8 +30,8 @@
 
 #### Studying in this moment:
 
-![Spring](https://img.shields.iodge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
-![Typescript](https://img.shields.io/badge&logo=JSON%20web%20tokens&logoColor=white)&nbsp;
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 
 #### Databases:
 
